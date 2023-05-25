@@ -32,7 +32,7 @@ Aug. 2016 - Jul. 2019
 <a href="https://gecco-2023.sigevo.org/HomePage" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/SF-GOMENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
-<a href="https://gecco-2023.sigevo.org/HomePage; text-decoration: none;" style="color:darkred">**GECCO**</a> 2023, <span style="color:red">_Late-breaking Abstract_</span> 
+<a href="https://gecco-2023.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**GECCO**</a> 2023, <span style="color:red">_Late-breaking Abstract_</span> 
 
 - **Training-Free Multi-Objective and Many-Objective Evolutionary Neural Architecture Search with Synaptic Flow** \\
 <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;">[paper]</a> 
