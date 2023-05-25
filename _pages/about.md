@@ -19,7 +19,7 @@ Oct. 2022. One paper accepted to **SoICT 2022**
 
 ## Education
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
-**GPA**: 9.32/10
+**GPA**: 9.32/10 \\
 **Thesis**: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
 **Advisor**: <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a> \\
 Aug. 2019 - Apr. 2023
