@@ -13,8 +13,8 @@ I am An Vo, an undergraduate student at the University of Information Technology
 ## News
 May. 2023. Starting a new job as a developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
 Apr. 2023. One late-breaking abstract accepted to **GECCO 2023** \\
-Apr. 2023. Officially graduated from University of Information Technology, VNU-HCM with an **excellent degree** \\
-Mar. 2023. Successfully defended the bachelor graduation thesis with a score of **10/10** \\
+Apr. 2023. Officially graduated from University of Information Technology, VNU-HCM with an <span style="color:red">excellent degree</span> \\
+Mar. 2023. Successfully defended the bachelor graduation thesis with a score of <span style="color:red">10/10</span> \\
 Dec. 2022. <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;"><span style="color:red">**Best Paper Award**</span></a> at **SoICT 2022** \\
 Oct. 2022. One paper accepted to **SoICT 2022**
 
