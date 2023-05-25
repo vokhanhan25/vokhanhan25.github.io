@@ -60,7 +60,7 @@ Ca Mau, 2018
 - **Second Prize in Provincial Excellent Student Competition** \\
 Ca Mau, 2017 and 2018
 
-- **Olympic Bronze Medal on April 30th** \\
+- **April 30th Olympic Bronze Medal** \\
 Le Hong Phong High School for Gifted Students, 2017
 
 - **Summer Olympic Bronze Medal in the Mekong Delta** \\
