@@ -15,7 +15,7 @@ May. 2023. Starting a new job as a developer at **Eximbank**, Ho Chi Minh City, 
 Apr. 2023. Officially graduated from University of Information Technology, VNU-HCM with an **excellent degree** \\
 Mar. 2023. Successfully defended the bachelor graduation thesis with a score of **10/10** \\
 Dec. 2022. <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;"><span style="color:red">**Best Paper Award**</span></a> at **SoICT 2022** \\
-Oct. 2022. One paper accepted to **SoICT 2022** 
+Oct. 2022. One paper accepted to **SoICT 2022**
 
 ## Education
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
