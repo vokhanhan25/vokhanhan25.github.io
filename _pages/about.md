@@ -12,8 +12,8 @@ I am An Vo, an undergraduate student at the University of Information Technology
 
 ## Education
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
-Thesis: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
-Advisor: <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a> \\
+**Thesis**: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
+**Advisor**: <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a> \\
 Aug. 2019 - Apr. 2023
 
 - **Gifted Student** in Mathematics and Informatics, <a href="https://thpt-chuyenphanngochien.edu.vn" style="color: #7289da; text-decoration: none;">**Phan Ngoc Hien High School for Gifted Students**</a> \\
