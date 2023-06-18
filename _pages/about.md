@@ -11,7 +11,7 @@ redirect_from:
 I am An Vo, an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). I am currently a member of the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a> at UIT, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Algorithms
 
 ## News
-Jun. 2023. One paper accepted to **Informatica (Slovenia)**
+Jun. 2023. One paper accepted to **Informatica** \\
 May. 2023. Starting a new job as a developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
 Apr. 2023. One late-breaking abstract paper accepted to **GECCO 2023** \\
 Apr. 2023. Officially graduated <span style="color:red">valedictorian</span> from University of Information Technology, VNU-HCM with an <span style="color:red">excellent degree</span> \\
@@ -47,7 +47,7 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
-<a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**SoICT**</a> 2022, <span style="color:red">_**Best Paper Award**_</span>
+<a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>
 
 ## Work Experiences
 - Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Present)  
