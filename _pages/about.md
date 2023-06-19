@@ -14,7 +14,7 @@ I am An Vo, an undergraduate student at the University of Information Technology
 Jun. 2023. One paper accepted to **Informatica** \\
 May. 2023. Starting a new job as a developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
 Apr. 2023. One late-breaking abstract paper accepted to **GECCO 2023** \\
-Apr. 2023. Officially graduated <span style="color:red">valedictorian</span> from University of Information Technology, VNU-HCM with an <span style="color:red">excellent degree</span> \\
+Apr. 2023. Graduated <span style="color:red">valedictorian</span> of University of Information Technology, VNU-HCM with an <span style="color:red">excellent degree</span> \\
 Mar. 2023. Successfully defended the bachelor graduation thesis with a score of <span style="color:red">10/10</span> \\
 Dec. 2022. <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;"><span style="color:red">**Best Paper Award**</span></a> at **SoICT 2022** \\
 Oct. 2022. One paper accepted to **SoICT 2022**
@@ -47,7 +47,7 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
-<a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>
+<a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2022
 
 ## Work Experiences
 - Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Present)  
