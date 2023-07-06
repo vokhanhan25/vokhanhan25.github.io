@@ -52,7 +52,7 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 
 ## Work Experiences
 - Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (May 2023 - Present)  
-- Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Present)  
+- Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Jun 2023)  
 
 ## Selected Awards & Honors
 - <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**Best Paper Award**</a> \\
