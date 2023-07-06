@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-I am An Vo and is an Associate Data Scientist at ZaloPay. Previously, I was an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). I also was a member of the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a> at UIT, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Algorithms
+My name is An Vo (Võ Khánh An). Currently, I am an Associate Data Scientist at ZaloPay. Previously, I was an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). I was also a member of the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a> at UIT, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Algorithms
 
 ## News
 May. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
