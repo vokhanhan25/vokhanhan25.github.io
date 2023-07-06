@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
  
-I am An Vo, an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). I am currently a member of the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a> at UIT, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Algorithms
+I am An Vo and is an Associate Data Scientist at ZaloPay. Previously, I was an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). I also was a member of the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a> at UIT, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Algorithms
 
 ## News
+May. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
 Jun. 2023. One paper accepted to **Informatica** \\
-May. 2023. Starting a new job as a developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
+May. 2023. Starting a new job as a Developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
 Apr. 2023. One late-breaking abstract paper accepted to **GECCO 2023** \\
 Apr. 2023. Graduated <span style="color:red">valedictorian</span> of University of Information Technology, VNU-HCM with an <span style="color:red">excellent degree</span> \\
 Mar. 2023. Successfully defended the bachelor graduation thesis with a score of <span style="color:red">10/10</span> \\
@@ -50,6 +51,7 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2022
 
 ## Work Experiences
+- Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (May 2023 - Present)  
 - Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Present)  
 
 ## Selected Awards & Honors
