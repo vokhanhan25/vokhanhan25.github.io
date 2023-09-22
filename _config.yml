@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "An Vo"
 title_separator          : "-"
 name                     : &name "An Vo"
-description              : &description "Associate Data Scientist @ ZaloPay"
+description              : &description "Researcher @ ELO@UIT Research Group"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/vokhanhan25"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "An Vo (Võ Khánh An)"
   avatar           : "anvo.jpg"
-  bio              : "Associate Data Scientist, ZaloPay"
+  bio              : "Researcher at ELO@UIT Research Group"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "vokhanhan25@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://scholar.google.com/citations?hl=en&user=oMVU2tMAAAAJ"
   uri              :
   bitbucket        :
   codepen          :
