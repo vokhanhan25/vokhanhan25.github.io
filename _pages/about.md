@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
  
-My name is An Vo (Võ Khánh An). Currently, I am an Associate Data Scientist at ZaloPay. Previously, I was an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). I was also a member of the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a> at UIT, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Algorithms
+My name is An Vo. Currently, I am a Researcher at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. Previously, I was an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
 Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
-Jun. 2023. One paper accepted to **Informatica** \\
+Jul. 2023. One paper accepted to **Informatica** \\
 May. 2023. Starting a new job as a Developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
 Apr. 2023. One late-breaking abstract paper accepted to **GECCO 2023** \\
-Apr. 2023. Graduated <span style="color:red">valedictorian</span> of University of Information Technology, VNU-HCM with an <span style="color:red">excellent degree</span> \\
-Mar. 2023. Successfully defended the bachelor graduation thesis with a score of <span style="color:red">10/10</span> \\
+Apr. 2023. Graduated as <span style="color:red">valedictorian</span> from University of Information Technology, Vietnam National University - Ho Chi Minh with an <span style="color:red">excellent degree</span> \\
+Mar. 2023. Successfully defended the bachelor graduation thesis with a perfect score of <span style="color:red">10/10</span> \\
 Dec. 2022. <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;"><span style="color:red">**Best Paper Award**</span></a> at **SoICT 2022** \\
 Oct. 2022. One paper accepted to **SoICT 2022**
 
@@ -32,7 +32,7 @@ Aug. 2016 - Jul. 2019
 
 ## International Conference Publications
 - **Accelerating Gene-pool Optimal Mixing Evolutionary Algorithm for Neural Architecture Search with Synaptic Flow** \\
-<a href="https://gecco-2023.sigevo.org/HomePage" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://dl.acm.org/doi/abs/10.1145/3583133.3596438" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/SF-GOMENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 <a href="https://gecco-2023.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**GECCO**</a> 2023, <span style="color:red">_Late-breaking Abstract Paper_</span> 
@@ -45,16 +45,18 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 
 ## International Journal Publications
 - **Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow** \\
-<a href="https://www.informatica.si/index.php/informatica" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://www.informatica.si/index.php/informatica/article/view/4736" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2022
 
 ## Work Experiences
-- Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Present)  
-- Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Jun 2023)  
+- Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Sep 2023)  
+- Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Jul 2023)  
 
 ## Selected Awards & Honors
+- <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**The valedictorian graduated with a comprehensive degree of excellence** \\
+University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM), 2023
 - <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**Best Paper Award**</a> \\
 International Symposium on Information and Communication Technology (SoICT), 2022
 
@@ -85,6 +87,8 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 
 
 ## News Articles
+- <a href="https://thanhnien.vn/thu-khoa-kien-tri-voi-hoc-thuat-de-tu-do-ve-y-chi-va-thoi-gian-185230610152845327.htm?fbclid=IwAR1zU1tDimaD166xkvsVXeD3yqfIbbYBfqAOOOKvy8PoOaAky3_aKOcCQw4" style="color: #7289da; text-decoration: none;">Thủ khoa kiên trì với học thuật để ‘tự do về ý chí và thời gian’</a>, Thanh nien, 2023.06.12
+- <a href="https://svvn.tienphong.vn/thu-khoa-tot-nghiep-toan-dien-loai-xuat-sac-cung-niem-dam-me-voi-khoa-hoc-post1543034.tpo?fbclid=IwAR12YpAuBQ_mG2txcYcMoHBqhsHi0cOUCH-x0BCOaL2MMeRZB85n5ylAoXo" style="color: #7289da; text-decoration: none;">Thủ khoa tốt nghiệp toàn diện loại Xuất sắc cùng niềm đam mê với khoa học</a>, Tien Phong, 2023.06.15
 - <a href="https://tuoitre.vn/lanh-dao-tp-hcm-doi-thoai-voi-sinh-vien-tieu-bieu-mo-ra-khong-gian-cho-can-bo-gen-z-20230322202149374.htm" style="color: #7289da; text-decoration: none;">Lãnh đạo TP.HCM đối thoại với sinh viên tiêu biểu: Mở ra không gian cho cán bộ gen Z</a>, Tuoi Tre, 2023.03.23
 - <a href="https://vnexpress.net/sinh-vien-hien-ke-de-tp-hcm-thu-hut-nhan-tai-4584871.html" style="color: #7289da; text-decoration: none;">Sinh viên hiến kế để TP HCM thu hút nhân tài</a>, VnExpress, 2023.03.23
 - <a href="https://svvn.tienphong.vn/hai-sinh-vien-nhan-giai-thuong-bai-bao-xuat-sac-tai-hoi-nghi-quoc-te-ve-cntt-va-truyen-thong-post1493044.tpo" style="color: #7289da; text-decoration: none;">Hai sinh viên nhận giải thưởng 'Bài báo xuất sắc' tại Hội nghị quốc tế về CNTT và Truyền thông</a>, Tien Phong, 2022.12.07
