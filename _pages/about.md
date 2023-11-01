@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-My name is An Vo. Currently, I am a Researcher at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
+My name is An Vo. Currently, I am a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
 Nov. 2023. One paper accepted to **Information Sciences**
