@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
  
-My name is An Vo. Currently, I am a Researcher at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. Previously, I was an undergraduate student at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
+My name is An Vo. Currently, I am a Researcher at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
+Nov. 2023. One paper accepted to **Information Sciences**
 Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
 Jul. 2023. One paper accepted to **Informatica** \\
 May. 2023. Starting a new job as a Developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
@@ -45,17 +46,20 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 
 ## International Journal Publications
 - **Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow** \\
+Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
+<a href="https://www.sciencedirect.com/journal/information-sciences" style="color:darkred; text-decoration: none;">**Information Sciences**</a>, 2023
+- **Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow** \\
 <a href="https://www.informatica.si/index.php/informatica/article/view/4736" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
-<a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2022
+<a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2023
 
 ## Work Experiences
 - Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Sep 2023)  
 - Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Jul 2023)  
 
 ## Selected Awards & Honors
-- <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**The valedictorian graduated with a comprehensive degree of excellence** \\
+- <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**The valedictorian graduated with a comprehensive degree of excellence** </a> \\
 University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM), 2023
 - <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**Best Paper Award**</a> \\
 International Symposium on Information and Communication Technology (SoICT), 2022
