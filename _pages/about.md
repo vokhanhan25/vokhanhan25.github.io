@@ -33,23 +33,25 @@ Aug. 2016 - Jul. 2019
 
 ## International Conference Publications
 - **Accelerating Gene-pool Optimal Mixing Evolutionary Algorithm for Neural Architecture Search with Synaptic Flow** \\
-<a href="https://dl.acm.org/doi/abs/10.1145/3583133.3596438" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://doi.org/10.1145/3583133.3596438" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/SF-GOMENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 <a href="https://gecco-2023.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**GECCO**</a> 2023, <span style="color:red">_Late-breaking Abstract Paper_</span> 
 
 - **Training-Free Multi-Objective and Many-Objective Evolutionary Neural Architecture Search with Synaptic Flow** \\
-<a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://doi.org/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
 <a href="https://soict.org/2022" style="color:darkred; text-decoration: none;">**SoICT**</a> 2022, <span style="color:red">_**Best Paper Award**_</span>
 
 ## International Journal Publications
-- **Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow** \\
+- **Lightweight multi-objective evolutionary neural architecture search with low-cost proxy metrics** \\
 Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
+<a href="https://doi.org/10.1016/j.ins.2023.119856" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://github.com/ELO-Lab/E-TF-MOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <a href="https://www.sciencedirect.com/journal/information-sciences" style="color:darkred; text-decoration: none;">**Information Sciences**</a>, 2023
 - **Lightweight Multi-Objective and Many-Objective Problem Formulations for Evolutionary Neural Architecture Search with the Training-Free Performance Metric Synaptic Flow** \\
-<a href="https://www.informatica.si/index.php/informatica/article/view/4736" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://doi.org/10.31449/inf.v47i3.4736" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2023
