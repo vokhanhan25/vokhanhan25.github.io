@@ -100,7 +100,7 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 - <a href="https://vnexpress.net/sinh-vien-hien-ke-de-tp-hcm-thu-hut-nhan-tai-4584871.html" style="color: #7289da; text-decoration: none;">Sinh viên hiến kế để TP HCM thu hút nhân tài</a>, VnExpress, 2023.03.23
 - <a href="https://svvn.tienphong.vn/hai-sinh-vien-nhan-giai-thuong-bai-bao-xuat-sac-tai-hoi-nghi-quoc-te-ve-cntt-va-truyen-thong-post1493044.tpo" style="color: #7289da; text-decoration: none;">Hai sinh viên nhận giải thưởng 'Bài báo xuất sắc' tại Hội nghị quốc tế về CNTT và Truyền thông</a>, Tien Phong, 2022.12.07
 - <a href="https://tuoitre.vn/ung-dung-ai-vao-giao-duc-lich-su-20221004093302994.htm" style="color: #7289da; text-decoration: none;">Ứng dụng AI vào giáo dục lịch sử</a>, Tuoi Tre, 2022.10.04
-- <a href="http://tinhdoancamau.com.vn/home/?74642c7368772c373632392c2c" style="color: #7289da; text-decoration: none;">Bế mạc Hội thi Tin học trẻ tỉnh Cà Mau lần thứ XXI, năm 2018</a>, Tinh Doan Ca Mau, 2018.06.14
+- <a href="https://baoanhdatmui.vn/108-thi-sinh-tham-gia-hoi-thi-tin-hoc-tre-cap-tinh-nam-2018.html" style="color: #7289da; text-decoration: none;">108 thí sinh tham gia Hội thi Tin học trẻ cấp tỉnh năm 2018</a>, Dat Mui, 2018.06.14
 
 
 ## Invited Talks
