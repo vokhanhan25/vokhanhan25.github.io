@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
  
-My name is An Vo. Currently, I am a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
+My name is An Vo, and I am an incoming Master's student for Spring 2024 at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
+Dec. 2023. I have been admitted to the Master's program at KAIST School of Computing for Spring 2024. A new journey!!!\\
 Nov. 2023. One paper accepted to **Information Sciences** \\
 Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
 Jul. 2023. One paper accepted to **Informatica** \\
