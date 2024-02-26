@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "An Vo"
 title_separator          : "-"
 name                     : &name "An Vo"
-description              : &description "Research Assistant @ ELO@UIT Research Group"
+description              : &description "Master student @ KAIST"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/vokhanhan25"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "An Vo (Võ Khánh An)"
   avatar           : "anvo.jpg"
-  bio              : "Research Assistant at ELO@UIT"
-  location         : "Ho Chi Minh City, Vietnam"
+  bio              : "Master student at KAIST"
+  location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=oMVU2tMAAAAJ"
-  email            : "vokhanhan25@gmail.com"
+  email            : "an.vo@kaist.ac.kr"
   researchgate     :  
   uri              :
   bitbucket        :
