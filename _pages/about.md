@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
-My name is An Vo, and I am an incoming Master's student for Spring 2024 at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM). During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
+I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
-Dec. 2023. I have been admitted to the Master's program at KAIST School of Computing for Spring 2024. A new journey!!!\\
+Jan. 2023. I become the recipient of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
+Dec. 2023. I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
 Nov. 2023. One paper accepted to **Information Sciences** \\
 Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
 Jul. 2023. One paper accepted to **Informatica** \\
@@ -62,8 +62,12 @@ Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 - Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Jul 2023)  
 
 ## Selected Awards & Honors
-- <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**The valedictorian graduated with a comprehensive degree of excellence** </a> \\
+- Recipent of the <a href="https://www.cmkfoundation-scholarship.org/GlobalScholarship?language=en" style="color: #7289da; text-decoration: none;">**Hyundai Chung Mong-Koo Global Scholarship 2024** </a> \\
+Korea, 2024
+
+- <a href="" style="color: #7289da; text-decoration: none;">**The valedictorian graduated with a comprehensive degree of excellence** </a> \\
 University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM), 2023
+
 - <a href="https://soict.org/2022/" style="color: #7289da; text-decoration: none;">**Best Paper Award**</a> \\
 International Symposium on Information and Communication Technology (SoICT), 2022
 
@@ -94,9 +98,13 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 
 
 ## News Articles
-- <a href="https://thanhnien.vn/thu-khoa-kien-tri-voi-hoc-thuat-de-tu-do-ve-y-chi-va-thoi-gian-185230610152845327.htm?fbclid=IwAR1zU1tDimaD166xkvsVXeD3yqfIbbYBfqAOOOKvy8PoOaAky3_aKOcCQw4" style="color: #7289da; text-decoration: none;">Thủ khoa kiên trì với học thuật để ‘tự do về ý chí và thời gian’</a>, Thanh nien, 2023.06.12
+- <a href="https://en.uit.edu.vn/recipient-masters-scholarship-top-korean-research-institute-choosing-uit-was-my-crucial-and-unforgettable-turning-point
+" style="color: #7289da; text-decoration: none;">Recipient of Master's Scholarship at Top Korean Research Institute: 'Choosing UIT was my crucial and unforgettable turning point'</a>, University of Information Technology, 2024.02.01
 - <a href="https://svvn.tienphong.vn/thu-khoa-tot-nghiep-toan-dien-loai-xuat-sac-cung-niem-dam-me-voi-khoa-hoc-post1543034.tpo?fbclid=IwAR12YpAuBQ_mG2txcYcMoHBqhsHi0cOUCH-x0BCOaL2MMeRZB85n5ylAoXo" style="color: #7289da; text-decoration: none;">Thủ khoa tốt nghiệp toàn diện loại Xuất sắc cùng niềm đam mê với khoa học</a>, Tien Phong, 2023.06.15
+- <a href="https://svvn.tienphong.vn/thu-khoa-tot-nghiep-toan-dien-loai-xuat-sac-cung-niem-dam-me-voi-khoa-hoc-post1543034.tpo?fbclid=IwAR12YpAuBQ_mG2txcYcMoHBqhsHi0cOUCH-x0BCOaL2MMeRZB85n5ylAoXo" style="color: #7289da; text-decoration: none;">Thủ khoa tốt nghiệp toàn diện loại Xuất sắc cùng niềm đam mê với khoa học</a>, Tien Phong, 2023.06.15
+- <a href="https://thanhnien.vn/thu-khoa-kien-tri-voi-hoc-thuat-de-tu-do-ve-y-chi-va-thoi-gian-185230610152845327.htm?fbclid=IwAR1zU1tDimaD166xkvsVXeD3yqfIbbYBfqAOOOKvy8PoOaAky3_aKOcCQw4" style="color: #7289da; text-decoration: none;">Thủ khoa kiên trì với học thuật để ‘tự do về ý chí và thời gian’</a>, Thanh nien, 2023.06.12
 - <a href="https://www.uit.edu.vn/gap-go-chang-sinh-vien-khoa-hoc-may-tinh-voi-nhung-thanh-tich-tuong" style="color: #7289da; text-decoration: none;">Gặp gỡ chàng sinh viên Khoa học Máy tính với những thành tích ấn tượng</a>, University of Information Technology, 2023.06.06
+- <a href="https://dantri.com.vn/lao-dong-viec-lam/luong-beo-bot-no-ngap-dau-nu-giao-vien-muon-di-uc-kiem-tien-ty-20230404232411805.htm" style="color: #7289da; text-decoration: none;">Lương bèo bọt, nợ ngập đầu, nữ giáo viên muốn đi Úc kiếm tiền tỷ</a>, Dan Tri, 2023.05.04
 - <a href="https://tuoitre.vn/lanh-dao-tp-hcm-doi-thoai-voi-sinh-vien-tieu-bieu-mo-ra-khong-gian-cho-can-bo-gen-z-20230322202149374.htm" style="color: #7289da; text-decoration: none;">Lãnh đạo TP.HCM đối thoại với sinh viên tiêu biểu: Mở ra không gian cho cán bộ gen Z</a>, Tuoi Tre, 2023.03.23
 - <a href="https://vnexpress.net/sinh-vien-hien-ke-de-tp-hcm-thu-hut-nhan-tai-4584871.html" style="color: #7289da; text-decoration: none;">Sinh viên hiến kế để TP HCM thu hút nhân tài</a>, VnExpress, 2023.03.23
 - <a href="https://svvn.tienphong.vn/hai-sinh-vien-nhan-giai-thuong-bai-bao-xuat-sac-tai-hoi-nghi-quoc-te-ve-cntt-va-truyen-thong-post1493044.tpo" style="color: #7289da; text-decoration: none;">Hai sinh viên nhận giải thưởng 'Bài báo xuất sắc' tại Hội nghị quốc tế về CNTT và Truyền thông</a>, Tien Phong, 2022.12.07
