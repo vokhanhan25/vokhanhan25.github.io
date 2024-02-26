@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
