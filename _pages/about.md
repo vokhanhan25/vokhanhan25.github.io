@@ -12,7 +12,7 @@ I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="colo
 
 ## News
 Jan. 2024. I become the recipient of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
-Jan. 2024. I will serve on the Technical Program Committee (TPC) member as a reviewer of CEC 2024</span>. \\
+Jan. 2024. I will serve on the Technical Program Committee (TPC) member as a reviewer of CEC 2024. \\
 Dec. 2023. I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
 Nov. 2023. One paper accepted to **Information Sciences** \\
 Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
