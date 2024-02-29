@@ -11,7 +11,8 @@ redirect_from:
 I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
-Jan. 2023. I become the recipient of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
+Jan. 2024. I become the recipient of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
+Jan. 2024. I will serve on the Technical Program Committee (TPC) member as a reviewer of CEC 2024</span>. \\
 Dec. 2023. I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
 Nov. 2023. One paper accepted to **Information Sciences** \\
 Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
@@ -57,6 +58,9 @@ Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2023
+
+## Academic Services
+- **Technical Program Committee (TPC)**: CEC 2024 (Reviewer) \\
 
 ## Work Experiences
 - Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Sep 2023)  
