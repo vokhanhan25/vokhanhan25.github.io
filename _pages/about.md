@@ -60,16 +60,13 @@ Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 <a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2023
 
 ## Academic Services
-- **Technical Program Committee (TPC)**: CEC 2024 (Reviewer) \\
+- **Technical Program Committee (TPC) member**: CEC 2024 (Reviewer) 
 
 ## Work Experiences
 - Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Sep 2023)  
 - Developer, <a href="https://eximbank.com.vn/en_GB/" style="color: #7289da; text-decoration: none;">**Eximbank**</a>, Ho Chi Minh City, Vietnam (May 2023 - Jul 2023)  
 
 ## Selected Awards & Honors
-- Recipent of the <a href="https://www.cmkfoundation-scholarship.org/GlobalScholarship?language=en" style="color: #7289da; text-decoration: none;">**Hyundai Chung Mong-Koo Global Scholarship 2024** </a> \\
-Korea, 2024
-
 - <a href="" style="color: #7289da; text-decoration: none;">**The valedictorian graduated with a comprehensive degree of excellence** </a> \\
 University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM), 2023
 
@@ -95,6 +92,9 @@ Le Hong Phong High School for Gifted Students, 2017
 Phan Ngoc Hien High School for Gifted Students, 2017
 
 ## Selected Scholarships
+- Recipent of the <a href="https://www.cmkfoundation-scholarship.org/GlobalScholarship?language=en" style="color: #7289da; text-decoration: none;">**Hyundai Chung Mong-Koo Global Scholarship 2024** </a> \\
+Korea, 2024
+
 - **Merit-based scholarship** \\
 Uniersity of Information Technology, VNU-HCM, 2019-2022
 
@@ -105,7 +105,6 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 ## News Articles
 - <a href="https://en.uit.edu.vn/recipient-masters-scholarship-top-korean-research-institute-choosing-uit-was-my-crucial-and-unforgettable-turning-point
 " style="color: #7289da; text-decoration: none;">Recipient of Master's Scholarship at Top Korean Research Institute: 'Choosing UIT was my crucial and unforgettable turning point'</a>, University of Information Technology, 2024.02.01
-- <a href="https://svvn.tienphong.vn/thu-khoa-tot-nghiep-toan-dien-loai-xuat-sac-cung-niem-dam-me-voi-khoa-hoc-post1543034.tpo?fbclid=IwAR12YpAuBQ_mG2txcYcMoHBqhsHi0cOUCH-x0BCOaL2MMeRZB85n5ylAoXo" style="color: #7289da; text-decoration: none;">Thủ khoa tốt nghiệp toàn diện loại Xuất sắc cùng niềm đam mê với khoa học</a>, Tien Phong, 2023.06.15
 - <a href="https://svvn.tienphong.vn/thu-khoa-tot-nghiep-toan-dien-loai-xuat-sac-cung-niem-dam-me-voi-khoa-hoc-post1543034.tpo?fbclid=IwAR12YpAuBQ_mG2txcYcMoHBqhsHi0cOUCH-x0BCOaL2MMeRZB85n5ylAoXo" style="color: #7289da; text-decoration: none;">Thủ khoa tốt nghiệp toàn diện loại Xuất sắc cùng niềm đam mê với khoa học</a>, Tien Phong, 2023.06.15
 - <a href="https://thanhnien.vn/thu-khoa-kien-tri-voi-hoc-thuat-de-tu-do-ve-y-chi-va-thoi-gian-185230610152845327.htm?fbclid=IwAR1zU1tDimaD166xkvsVXeD3yqfIbbYBfqAOOOKvy8PoOaAky3_aKOcCQw4" style="color: #7289da; text-decoration: none;">Thủ khoa kiên trì với học thuật để ‘tự do về ý chí và thời gian’</a>, Thanh nien, 2023.06.12
 - <a href="https://www.uit.edu.vn/gap-go-chang-sinh-vien-khoa-hoc-may-tinh-voi-nhung-thanh-tich-tuong" style="color: #7289da; text-decoration: none;">Gặp gỡ chàng sinh viên Khoa học Máy tính với những thành tích ấn tượng</a>, University of Information Technology, 2023.06.06
