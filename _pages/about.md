@@ -11,20 +11,22 @@ redirect_from:
 I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Neural Architecture Search, Optimization, and Evolutionary Computation.
 
 ## News
-Jan. 2024. I become the recipient of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
-Jan. 2024. I will serve on the Technical Program Committee (TPC) member as a reviewer of CEC 2024. \\
-Dec. 2023. I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
-Nov. 2023. One paper accepted to **Information Sciences** \\
-Jul. 2023. Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
-Jul. 2023. One paper accepted to **Informatica** \\
-May. 2023. Starting a new job as a Developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
-Apr. 2023. One late-breaking abstract paper accepted to **GECCO 2023** \\
-Apr. 2023. Graduated as <span style="color:red">valedictorian</span> from University of Information Technology, Vietnam National University - Ho Chi Minh with an <span style="color:red">excellent degree</span> \\
-Mar. 2023. Successfully defended the bachelor graduation thesis with a perfect score of <span style="color:red">10/10</span> \\
-Dec. 2022. <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;"><span style="color:red">**Best Paper Award**</span></a> at **SoICT 2022** \\
-Oct. 2022. One paper accepted to **SoICT 2022**
+[Jan 2024] I become the recipient of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
+[Jan 2024] I will serve on the Technical Program Committee (TPC) as a reviewer of CEC 2024. \\
+[Dec 2023] I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
+[Nov 2023] One paper accepted to **Information Sciences** \\
+[Jul 2023] Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
+[Jul 2023] One paper accepted to **Informatica** \\
+[May 2023] Starting a new job as a Developer at **Eximbank**, Ho Chi Minh City, Vietnam \\
+[Apr 2023] One late-breaking abstract paper accepted to **GECCO 2023** \\
+[Apr 2023] Graduated as <span style="color:red">valedictorian</span> from University of Information Technology, Vietnam National University - Ho Chi Minh with an <span style="color:red">excellent degree</span> \\
+[Mar 2023] Successfully defended the bachelor graduation thesis with a perfect score of <span style="color:red">10/10</span> \\
+[Dec 2022] <a href="https://dl.acm.org/doi/10.1145/3568562.3568569" style="color: #7289da; text-decoration: none;"><span style="color:red">**Best Paper Award**</span></a> at **SoICT 2022** \\
+[Oct 2022] One paper accepted to **SoICT 2022**
 
 ## Education
+- **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
+Feb. 2024 - Feb. 2026 (expected)
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
 **GPA**: 9.32/10 \\
 **Thesis**: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
