@@ -44,8 +44,7 @@ Aug. 2016 - Jul. 2019
 <a href="https://gecco-2024.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**GECCO**</a> 2024, <span style="color:red">_Full Paper_</span> 
 
 - **Zero-Cost Proxy-Based Hierarchical Initialization for Evolutionary Neural Architecture Search** \\
-Nhat Minh Le<sup>*</sup> <u>An Vo</u><sup>*</sup>, Ngoc Hoang Luong (* equal contribution) \\
-<a href="https://2024.ieeewcci.org/" style="color:darkred; text-decoration: none;">**CEC**</a> 2024
+Nhat Minh Le<sup></sup>, <u>An Vo<sup></sup></u>, Ngoc Hoang Luong (<i>* equal contribution</i>)<a href="https://2024.ieeewcci.org/" style="color:darkred; text-decoration: none;">**CEC**</a> 2024
 
 - **Accelerating Gene-pool Optimal Mixing Evolutionary Algorithm for Neural Architecture Search with Synaptic Flow** \\
 <a href="https://doi.org/10.1145/3583133.3596438" style="color: #7289da; text-decoration: none;">[paper]</a> 
