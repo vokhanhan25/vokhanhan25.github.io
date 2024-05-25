@@ -70,6 +70,9 @@ Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 <a href="https://github.com/ELO-Lab/TF-MaOENAS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
 <a href="https://www.informatica.si/index.php/informatica" style="color:darkred; text-decoration: none;">**Informatica**</a>, 2023
+- **Efficient Multi-Objective Neural Architecture Search via Tree Search with Training-Free Metrics** \\
+<u>An Vo</u>, Nhat Minh Le, Ngoc Hoang Luong \\
+<a>**Under review**</a>
 
 ## Academic Services
 - **Technical Program Committee (TPC) member**: CEC 2024 (Reviewer) 
