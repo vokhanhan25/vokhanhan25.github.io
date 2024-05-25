@@ -117,10 +117,10 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 Uniersity of Information Technology, VNU-HCM, 2019-2022
 
 ## Mentoring Experience
-I have experience mentoring some undergraduate students, and all of them achieved their first-ever publications at top evolutionary conferences (GECCO, CEC) after working with me.
-- Khoa Huu Tran: Undergraduate student at UIT (Oct 2022 - Jan 2024)
-- Luc Truong: Undergraduate student at UIT (Oct 2022 - Jan 2024)
-- Minh Le: Undergraduate student at UIT (Oct 2022 - Feb 2023)
+I have experience mentoring some undergraduate students. All of them achieved their first-ever publications at top evolutionary conferences (GECCO, CEC) after working with me:
+- **Khoa Huu Tran**: Undergraduate student at UIT (Oct 2022 - Jan 2024)
+- **Luc Truong**: Undergraduate student at UIT (Oct 2022 - Jan 2024)
+- **Minh Le**: Undergraduate student at UIT (Oct 2022 - Feb 2023)
 
 ## Selected Press
 - <a href="https://en.uit.edu.vn/recipient-masters-scholarship-top-korean-research-institute-choosing-uit-was-my-crucial-and-unforgettable-turning-point
