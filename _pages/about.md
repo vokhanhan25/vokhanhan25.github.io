@@ -113,8 +113,13 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 - **Scholarships for students with the highest grades in the field.** \\
 Uniersity of Information Technology, VNU-HCM, 2019-2022
 
+## Mentoring Experience
+I have experience mentoring some undergraduate students, and all of them achieved their first-ever publications at top evolutionary conferences (GECCO, CEC) after working with me.
+- Khoa Huu Tran: Undergraduate student at UIT (Oct 2022 - Jan 2024)
+- Luc Truong: Undergraduate student at UIT (Oct 2022 - Jan 2024)
+- Minh Le: Undergraduate student at UIT (Oct 2022 - Feb 2023)
 
-## News Articles
+## Selected Press
 - <a href="https://en.uit.edu.vn/recipient-masters-scholarship-top-korean-research-institute-choosing-uit-was-my-crucial-and-unforgettable-turning-point
 " style="color: #7289da; text-decoration: none;">Recipient of Master's Scholarship at Top Korean Research Institute: 'Choosing UIT was my crucial and unforgettable turning point'</a>, University of Information Technology, 2024.02.01
 - <a href="https://svvn.tienphong.vn/thu-khoa-tot-nghiep-toan-dien-loai-xuat-sac-cung-niem-dam-me-voi-khoa-hoc-post1543034.tpo?fbclid=IwAR12YpAuBQ_mG2txcYcMoHBqhsHi0cOUCH-x0BCOaL2MMeRZB85n5ylAoXo" style="color: #7289da; text-decoration: none;">Thủ khoa tốt nghiệp toàn diện loại Xuất sắc cùng niềm đam mê với khoa học</a>, Tien Phong, 2023.06.15
@@ -126,7 +131,6 @@ Uniersity of Information Technology, VNU-HCM, 2019-2022
 - <a href="https://svvn.tienphong.vn/hai-sinh-vien-nhan-giai-thuong-bai-bao-xuat-sac-tai-hoi-nghi-quoc-te-ve-cntt-va-truyen-thong-post1493044.tpo" style="color: #7289da; text-decoration: none;">Hai sinh viên nhận giải thưởng 'Bài báo xuất sắc' tại Hội nghị quốc tế về CNTT và Truyền thông</a>, Tien Phong, 2022.12.07
 - <a href="https://tuoitre.vn/ung-dung-ai-vao-giao-duc-lich-su-20221004093302994.htm" style="color: #7289da; text-decoration: none;">Ứng dụng AI vào giáo dục lịch sử</a>, Tuoi Tre, 2022.10.04
 - <a href="https://baoanhdatmui.vn/108-thi-sinh-tham-gia-hoi-thi-tin-hoc-tre-cap-tinh-nam-2018.html" style="color: #7289da; text-decoration: none;">108 thí sinh tham gia Hội thi Tin học trẻ cấp tỉnh năm 2018</a>, Dat Mui, 2018.06.14
-
 
 ## Invited Talks
 - **"University Learning Methods in the Context of Digital Transformation"** \\
