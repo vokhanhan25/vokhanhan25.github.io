@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Large Language Models, Neural Architecture Search, and Evolutionary Computation.
+I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Large Language Models, AutoML, XAI,  and Evolutionary Computation.
 
 ## News
 [Mar 2024] One paper accepted to **GECCO 2024** \\
@@ -30,7 +30,7 @@ I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="colo
 - **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Feb. 2024 - Feb. 2026 (expected)
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
-**GPA**: 9.32/10 \\
+**Grade**: 9.32/10 \\
 **Thesis**: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
 **Advisor**: <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a> \\
 Aug. 2019 - Apr. 2023
@@ -40,6 +40,8 @@ Aug. 2016 - Jul. 2019
 
 ## International Conference Publications
 - **Efficient Multi-Objective Neural Architecture Search via Pareto Dominance-based Novelty Search** \\
+<a href="https://doi.org/10.1145/3638529.3654064" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://github.com/ELO-Lab/PDNS" style="color: #7289da; text-decoration: none;">[code]</a> \\
 <u>An Vo</u>, Ngoc Hoang Luong \\
 <a href="https://gecco-2024.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**GECCO**</a> 2024, <span style="color:red">_Full Paper_</span> 
 
