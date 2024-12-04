@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). Previously, I graduated as valedictorian of my Bachelor's degree at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Large Language Models, AutoML, XAI,  and Evolutionary Computation.
+I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). My Master's program is fully funded by Hyundai Chung Mong-Koo Global Scholarship.
+
+Previously, I graduated as valedictorian of my Bachelor's program at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Large Language Models, AutoML, XAI,  and Evolutionary Computation.
 
 ## News
 [Mar 2024] One paper accepted to **GECCO 2024** \\
 [Mar 2024] One paper accepted to **CEC 2024** \\
-[Jan 2024] I become the scholar of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
+[Jan 2024] I have become a scholar of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
 [Jan 2024] I will serve on the Technical Program Committee (TPC) as a reviewer of **CEC 2024**. \\
 [Dec 2023] I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
 [Nov 2023] One paper accepted to **Information Sciences** \\
