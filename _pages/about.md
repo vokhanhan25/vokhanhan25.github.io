@@ -32,7 +32,7 @@ I am a MS student at <a href="https://www.kaist.ac.kr/en/" style="color: #7289da
 - **M.S.** in School of Computing, <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
 Feb. 2024 - Feb. 2026 (expected)
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
-**Grade**: 9.32/10 \\
+**Grade**: 9.32/10 (Valedictorian) \\
 **Thesis**: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
 Aug. 2019 - Apr. 2023
 
