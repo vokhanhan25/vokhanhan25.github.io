@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master student at <a href="https://www.resl.kaist.ac.kr/home" style="color: #7289da; text-decoration: none;">**DEAL Lab**</a> (or <a href="https://autoidlab.kaist.ac.kr/index.html" style="color: #7289da; text-decoration: none;">**Auto-ID Lab**</a>), advised by Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> at Korea Advanced Institute of Science and Technology (KAIST). My Master's program is fully funded by Hyundai Chung Mong-Koo Global Scholarship.
-
-Previously, I graduated as valedictorian of my Bachelor's program at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023. During undergraduate, I was a Research Assistant at the <a href="https://sites.google.com/view/evolve-learn-optimize" style="color: #7289da; text-decoration:none">**Evolutionary Learning and Optimization (ELO) research group**</a>, under the supervision of Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests revolve around Large Language Models, AutoML, XAI,  and Evolutionary Computation.
+I am a MS student at <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a>, working with Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> and Professor <a href="https://anhnguyen.me/" style="color: #7289da; text-decoration: none;">**Anh Totti Nguyen**</a>. My MS program is fully funded by Hyundai CMK Global Scholarship. Previously, I graduated as valedictorian of my Bachelor's program at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023, where I worked with Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests include LMs/VLMs, XAI, AutoML, Evolutionary Computation, and Optimization.
 
 ## News
+[Jan 2025] This year, I will serve as a reviewer for **IEEE CEC 2025**, **IJCNN 2025**, and **IEEE Transactions on Evolutionary Computation (IF=11.7)**. \\
+[Dec 2024] One paper accepted to **AAAI 2025** \\
 [Mar 2024] One paper accepted to **GECCO 2024** \\
 [Mar 2024] One paper accepted to **CEC 2024** \\
-[Jan 2024] I have become a scholar of the <span style="color:red">Hyundai Chung Mong-Koo Global Scholarship 2024</span>. \\
-[Jan 2024] I will serve on the Technical Program Committee (TPC) as a reviewer of **CEC 2024**. \\
+[Jan 2024] I have been chosen as a scholar for the <span style="color:red">Hyundai CMK Global Scholarship 2024</span>, a prestigious scholarship for top Southest Asian students. \\
+[Jan 2024] I will serve as a reviewer of **CEC 2024**. \\
 [Dec 2023] I have been admitted to the Master's program at <span style="color:red">KAIST School of Computing</span> for Spring 2024 and received the <span style="color:red">KAIST Scholarship</span>. A new journey! \\
 [Nov 2023] One paper accepted to **Information Sciences** \\
 [Jul 2023] Starting a new job as an <span style="color:red">Associate Data Scientist</span> at **ZaloPay**, Ho Chi Minh City, Vietnam \\
@@ -34,13 +34,19 @@ Feb. 2024 - Feb. 2026 (expected)
 - **B.S.** in Computer Science, <a href="https://en.uit.edu.vn/" style="color: #7289da; text-decoration: none;">**University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM)**</a> \\
 **Grade**: 9.32/10 \\
 **Thesis**: Many-Objective Evolutionary Neural Architecture Search with Performance Predictors (10/10) \\
-**Advisor**: <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Dr. Ngoc Hoang Luong**</a> \\
 Aug. 2019 - Apr. 2023
 
 - **Gifted Student** in Mathematics and Informatics, <a href="https://thpt-chuyenphanngochien.edu.vn" style="color: #7289da; text-decoration: none;">**Phan Ngoc Hien High School for Gifted Students**</a> \\
 Aug. 2016 - Jul. 2019
 
-## International Conference Publications
+## Conference Publications
+- **Reference-Based Post-OCR Processing with LLM for Precise Diacritic Text in Historical Document Recognition** \\
+<a href="https://arxiv.org/abs/2410.13305" style="color: #7289da; text-decoration: none;">[paper]</a> 
+<a href="https://github.com/thaodod/VieBookRead" style="color: #7289da; text-decoration: none;">[code]</a> \\
+<a href="https://huggingface.co/datasets/thaodd11/VieBookRead" style="color: #7289da; text-decoration: none;">[dataset]</a> \\
+Thao Do, Dinh Phu Tran, <u>An Vo</u>, Daeyoung Kim \\
+<a href="https://gecco-2024.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**AAAI**</a> 2025
+
 - **Efficient Multi-Objective Neural Architecture Search via Pareto Dominance-based Novelty Search** \\
 <a href="https://doi.org/10.1145/3638529.3654064" style="color: #7289da; text-decoration: none;">[paper]</a> 
 <a href="https://github.com/ELO-Lab/PDNS" style="color: #7289da; text-decoration: none;">[code]</a> \\
@@ -63,7 +69,7 @@ Khoa Huu Tran, Luc Truong, <u>An Vo</u>, Ngoc Hoang Luong \\
 <u>An Vo</u>, Tan Ngoc Pham, Van Bich Nguyen, Ngoc Hoang Luong \\
 <a href="https://soict.org/2022" style="color:darkred; text-decoration: none;">**SoICT**</a> 2022, <span style="color:red">_**Best Paper Award**_</span>
 
-## International Journal Publications
+## Journal Publications
 - **Lightweight multi-objective evolutionary neural architecture search with low-cost proxy metrics** \\
 Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 <a href="https://doi.org/10.1016/j.ins.2023.119856" style="color: #7289da; text-decoration: none;">[paper]</a> 
@@ -78,8 +84,9 @@ Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 <u>An Vo</u>, Nhat Minh Le, Ngoc Hoang Luong \\
 <a>**Under review**</a>
 
-## Academic Services
-- **Technical Program Committee (TPC) member**: CEC 2024 (Reviewer) 
+## Professional Service
+- **Conference reviewer**: IEEE CEC 2024, IEEE CEC 2025, IJCNN 2025
+- **Journal reviewer**: IEEE Transations on Evoluationary Computation (IEEE TEVC)
 
 ## Work Experiences
 - Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Sep 2023)  
