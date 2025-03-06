@@ -41,8 +41,8 @@ Aug. 2016 - Jul. 2019
 
 ## Conference Publications
 - **Reference-Based Post-OCR Processing with LLM for Precise Diacritic Text in Historical Document Recognition** \\
-<a href="https://arxiv.org/abs/2410.13305" style="color: #7289da; text-decoration: none;">[paper]</a> 
-<a href="https://github.com/thaodod/VieBookRead" style="color: #7289da; text-decoration: none;">[code]</a> \\
+<a href="https://arxiv.org/abs/2410.13305" style="color: #7289da; text-decoration: none;">[paper]</a>
+<a href="https://github.com/thaodod/VieBookRead" style="color: #7289da; text-decoration: none;">[code]</a> 
 <a href="https://huggingface.co/datasets/thaodd11/VieBookRead" style="color: #7289da; text-decoration: none;">[dataset]</a> \\
 Thao Do, Dinh Phu Tran, <u>An Vo</u>, Daeyoung Kim \\
 <a href="https://gecco-2024.sigevo.org/HomePage" style="color:darkred; text-decoration: none;">**AAAI**</a> 2025
