@@ -11,7 +11,7 @@ redirect_from:
 I am a MS student at <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a>, working with Professor <a href="https://www.resl.kaist.ac.kr/members/director" style="color: #7289da; text-decoration: none;">**Daeyoung Kim**</a> and Professor <a href="https://anhnguyen.me/" style="color: #7289da; text-decoration: none;">**Anh Totti Nguyen**</a>. My MS program is fully funded by Hyundai CMK Global Scholarship. Previously, I graduated as valedictorian of my Bachelor's program at the University of Information Technology (UIT), Vietnam National University - Ho Chi Minh City (VNU-HCM) in 2023, where I worked with Dr. <a href="https://sites.google.com/view/hoangluong" style="color: #7289da; text-decoration: none;">**Ngoc Hoang Luong**</a>. My research interests include LLMs/VLMs, XAI, AutoML, Evolutionary Computation, and Optimization.
 
 ## News
-[Jan 2025] This year, I will serve as a reviewer for **IEEE CEC 2025**, **IJCNN 2025**, and **IEEE Transactions on Evolutionary Computation (IF=11.7)**. \\
+[Jan 2025] This year, I will serve as a reviewer for multiple AI venues: **IEEE CEC 2025**, **IJCNN 2025**, and **IEEE Transactions on Evolutionary Computation (IF=11.7)**. \\
 [Dec 2024] One paper accepted to **AAAI 2025** \\
 [Mar 2024] One paper accepted to **GECCO 2024** \\
 [Mar 2024] One paper accepted to **CEC 2024** \\
