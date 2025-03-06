@@ -86,7 +86,7 @@ Ngoc Hoang Luong, Quan Minh Phan, <u>An Vo</u>, Tan Ngoc Pham, Dzung Tri Bui \\
 
 ## Professional Service
 - **Conference reviewer**: IEEE CEC 2024, IEEE CEC 2025, IJCNN 2025
-- **Journal reviewer**: IEEE Transations on Evoluationary Computation (IEEE TEVC)
+- **Journal reviewer**: IEEE Transations on Evoluationary Computation (IEEE TEVC, IF=11.7)
 
 ## Work Experiences
 - Associate Data Scientist, <a href="https://zalopay.vn/" style="color: #7289da; text-decoration: none;">**ZaloPay**</a>, Ho Chi Minh City, Vietnam (Jul 2023 - Sep 2023)  
